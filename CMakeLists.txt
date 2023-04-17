@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 project(rrt)
-# c++ 11
+# c++ 17
 set(CMAKE_CXX_FLAGS "-std=c++17")
 # 调试程序
 set(CMAKE_BUILD_TYPE "Debug")
